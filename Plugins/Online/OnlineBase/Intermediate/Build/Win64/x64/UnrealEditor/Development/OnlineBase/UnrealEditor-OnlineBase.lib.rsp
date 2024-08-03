@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineBase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\CoreUObject\SharedPCH.CoreUObject.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\LANBeacon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\OnlineBaseModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\UnrealEditor-OnlineBase.lib"

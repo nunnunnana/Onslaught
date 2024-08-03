@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\lobby\\private\\lobbymodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lobby\\definitions.lobby.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\lobby\\public\\lobbymodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

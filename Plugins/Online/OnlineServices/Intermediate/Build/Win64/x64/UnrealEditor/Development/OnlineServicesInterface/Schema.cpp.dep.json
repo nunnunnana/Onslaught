@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\private\\online\\schema.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlineservicesinterface\\definitions.onlineservicesinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\schema.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\schematypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlinemeta.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\algo\\find.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\algo\\foreach.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerrordefinitions.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerror.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerrorcode.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineresult.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

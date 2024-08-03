@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseosgs\\source\\private\\online\\sessionseosgstypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseosgs\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlineserviceseosgs\\definitions.onlineserviceseosgs.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseosgs\\source\\public\\online\\sessionseosgstypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\sessions.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerror.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerrorcode.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\schematypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlinemeta.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineresult.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_sessions_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_common.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_base.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_result.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_ui_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_ui_keys.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_ui_buttons.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\eosshared\\source\\eosshared\\public\\eosshared.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_integratedplatform_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_version.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

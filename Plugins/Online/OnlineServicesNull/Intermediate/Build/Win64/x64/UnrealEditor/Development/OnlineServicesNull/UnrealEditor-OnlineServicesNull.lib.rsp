@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineServicesNull.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\AchievementsNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\AuthNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\LeaderboardsNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\LobbiesNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\LobbyRegistryNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\OnlineServicesNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\OnlineServicesNullModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\PresenceNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\SessionsNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\StatsNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\TitleFileNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\UserFileNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesNull\UnrealEditor-OnlineServicesNull.lib"

@@ -5,7 +5,6 @@
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "Components/Button.h"
-//#include "OnlineSessionSettings.h"
 #include "W_Host.generated.h"
 
 /**
@@ -21,13 +20,12 @@ public:
 
 private:
 
-	UPROPERTY()
-	FString selectedName = ("Selection Sort");
-
 	UPROPERTY(meta = (BindWidget))
 	UButton* Bt_Host;
 	UPROPERTY(meta = (BindWidget))
 	UButton* Bt_Join;
+
+public:
 
 	UFUNCTION()
 	void CreateSession();

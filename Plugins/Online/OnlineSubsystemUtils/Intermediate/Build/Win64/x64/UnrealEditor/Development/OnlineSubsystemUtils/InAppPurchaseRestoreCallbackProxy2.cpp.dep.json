@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\private\\inapppurchaserestorecallbackproxy2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystemutils\\definitions.onlinesubsystemutils.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\inapppurchaserestorecallbackproxy2.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\inapppurchaserestorecallbackproxy2.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\inapppurchasecallbackproxy2.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinepurchaseinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineentitlementsinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinestoreinterfacev2.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystem\\uht\\onlinestoreinterfacev2.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinejsonserializer.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\inapppurchasedatatypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\inapppurchasedatatypes.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\inapppurchasecallbackproxy2.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\inapppurchaserestorecallbackproxy2.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

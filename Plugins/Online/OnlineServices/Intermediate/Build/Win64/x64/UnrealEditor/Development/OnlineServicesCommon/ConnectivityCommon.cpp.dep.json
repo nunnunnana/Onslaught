@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\private\\online\\connectivitycommon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlineservicescommon\\definitions.onlineservicescommon.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\connectivitycommon.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\connectivity.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlinemeta.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlinecomponent.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\ionlinecomponent.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineexechandler.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineasyncophandle.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerrordefinitions.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerror.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineerrorcode.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineserviceslog.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineresult.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\auth.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonline.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinefwd.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinepackage.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreonline\\uht\\coreonline.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\schematypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineservices.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlinetypeinfo.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\generatedtypename.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineservicescommon.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlinecomponentregistry.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineasyncopcache.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineasyncop.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineasyncopcache_meta.inl",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineasyncopqueue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\spscqueue.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineconfig.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

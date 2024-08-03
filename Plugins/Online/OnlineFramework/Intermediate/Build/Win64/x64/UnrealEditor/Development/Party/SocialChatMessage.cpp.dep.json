@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\private\\chat\\socialchatmessage.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\party\\definitions.party.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\public\\chat\\socialchatmessage.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinechatinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\public\\user\\socialuser.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\public\\party\\partytypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\party\\uht\\partytypes.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\public\\socialtypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\party\\public\\socialsettings.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\party\\uht\\socialsettings.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\party\\uht\\socialtypes.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\party\\uht\\socialuser.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

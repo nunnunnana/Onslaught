@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\private\\socketsubsystemeosmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\socketsubsystemeos\\definitions.socketsubsystemeos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\private\\socketsubsystemeosmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

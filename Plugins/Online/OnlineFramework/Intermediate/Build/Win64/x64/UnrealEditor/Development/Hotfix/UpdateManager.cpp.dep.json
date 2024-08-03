@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\hotfix\\private\\updatemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hotfix\\definitions.hotfix.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\hotfix\\public\\updatemanager.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\hotfix\\uht\\updatemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\installbundlemanager\\public\\installbundlemanagerinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\union.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\installbundlemanager\\public\\installbundletypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\installbundlemanager\\public\\installbundleutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\embeddedcommunication.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlineerror.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\hotfix\\public\\onlinehotfixmanager.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinetitlefileinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\hotfix\\uht\\onlinehotfixmanager.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\patchcheck\\public\\patchcheck.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineidentityinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\profilingdebugging\\loadtimetracker.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\profilingdebugging\\scopedtimers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\serialization\\loadtimetrace.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\unrealeditor\\inc\\hotfix\\uht\\updatemanager.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

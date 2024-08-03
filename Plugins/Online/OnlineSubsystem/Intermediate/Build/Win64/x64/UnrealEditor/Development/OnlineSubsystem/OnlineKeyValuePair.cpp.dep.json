@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\private\\onlinekeyvaluepair.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystem\\definitions.onlinesubsystem.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\policies\\condensedjsonprintpolicy.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\policies\\jsonprintpolicy.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonline.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinefwd.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinepackage.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreonline\\uht\\coreonline.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectconverter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\dom\\jsonobject.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\jsonglobals.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\serialization\\jsonreader.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\serialization\\jsonserializer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\serialization\\jsonwriter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\json\\public\\policies\\prettyjsonprintpolicy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

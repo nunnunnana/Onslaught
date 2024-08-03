@@ -15,10 +15,10 @@ void UW_Host::NativeConstruct()
 // 선택한 ComboBox에 맞는 알고리즘 실행
 void UW_Host::CreateSession()
 {
-
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("CreateSession"));
 }
 
 void UW_Host::FindSession()
 {
-
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("FindSession"));
 }

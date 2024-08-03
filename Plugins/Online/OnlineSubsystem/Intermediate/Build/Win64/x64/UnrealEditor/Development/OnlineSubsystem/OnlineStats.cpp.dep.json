@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\private\\onlinestats.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlinesubsystem\\definitions.onlinesubsystem.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinestats.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonline.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinefwd.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinepackage.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreonline\\uht\\coreonline.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

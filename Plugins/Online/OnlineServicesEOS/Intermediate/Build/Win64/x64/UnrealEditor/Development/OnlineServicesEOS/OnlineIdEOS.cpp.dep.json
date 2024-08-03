@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseos\\source\\private\\online\\onlineideos.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlineserviceseos\\definitions.onlineserviceseos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseos\\source\\private\\online\\onlineideos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseosgs\\source\\public\\online\\onlineideosgs.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicescommon\\public\\online\\onlineidcommon.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_common.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_base.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_result.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineserviceseos\\source\\public\\online\\accountideos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\eosshared\\source\\eosshared\\public\\eosshared.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_integratedplatform_types.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_version.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

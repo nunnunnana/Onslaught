@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineServicesCommon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\CoreUObject\SharedPCH.CoreUObject.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineServicesCommonModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\AchievementsCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\AuthCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\CommerceCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\ConnectivityCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\ExternalUICommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\LeaderboardsCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\LobbiesCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\LobbiesCommonTests.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\LobbiesCommonTypes.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\NboSerializerCommonSvc.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineAsyncOpCache.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineConfig.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineExecHandler.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineServicesCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\OnlineSyntaxTests.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\PresenceCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\PrivilegesCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\SessionsCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\SocialCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\StatsCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\TitleFileCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\UserFileCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\UserInfoCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommon\UnrealEditor-OnlineServicesCommon.lib"

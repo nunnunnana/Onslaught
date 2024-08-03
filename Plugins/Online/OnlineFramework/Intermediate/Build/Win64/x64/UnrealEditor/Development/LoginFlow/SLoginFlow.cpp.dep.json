@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\loginflow\\private\\sloginflow.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\slate\\sharedpch.slate.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\loginflow\\definitions.loginflow.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\loginflow\\private\\sloginflow.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\widgets\\suserwidget.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\loginflow\\private\\loginflowviewmodel.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\loginflow\\public\\iloginflowmodule.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineframework\\source\\loginflow\\private\\loginflowprivate.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\swebbrowser.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\swebbrowserview.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowsersingleton.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowserresourceloader.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowserwindow.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowserpopupfeatures.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\webbrowser\\public\\iwebbrowserdialog.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

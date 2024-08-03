@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineServicesEOS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\AuthEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\CommerceEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\ExternalUIEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\OnlineIdEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\OnlineServicesEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\OnlineServicesEOSModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\PresenceEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\SocialEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\UserInfoEOS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\OnlineIdEOSTests.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOS\UnrealEditor-OnlineServicesEOS.lib"

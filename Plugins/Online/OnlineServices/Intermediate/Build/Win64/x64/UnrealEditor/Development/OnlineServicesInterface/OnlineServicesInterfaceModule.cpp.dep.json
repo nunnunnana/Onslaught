@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\private\\online\\onlineservicesinterfacemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\coreuobject\\sharedpch.coreuobject.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\onlineservicesinterface\\definitions.onlineservicesinterface.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlineservices\\source\\onlineservicesinterface\\public\\online\\onlineservicesregistry.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonline.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinefwd.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreonline\\public\\online\\coreonlinepackage.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\coreonline\\uht\\coreonline.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineServicesEOSGS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\AchievementsEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\AuthEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\LeaderboardsEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\LobbiesEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\LobbiesEOSGSTypes.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\OnlineErrorEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\OnlineIdEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\OnlineServicesEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\OnlineServicesEOSGSModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\OnlineServicesEOSGSPlatformFactory.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\SessionsEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\SessionsEOSGSTypes.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\SocketSubsystemEOSUtils_OnlineServicesEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\StatsEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\TitleFileEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\UserFileEOSGS.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServicesEOSGS\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesEOSGS\UnrealEditor-OnlineServicesEOSGS.lib"

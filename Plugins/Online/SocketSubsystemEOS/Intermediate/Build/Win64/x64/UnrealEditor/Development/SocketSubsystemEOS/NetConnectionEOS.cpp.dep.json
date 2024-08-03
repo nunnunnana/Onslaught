@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\private\\netconnectioneos.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\onslaught\\intermediate\\build\\win64\\x64\\onslaughteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\socketsubsystemeos\\definitions.socketsubsystemeos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\private\\netconnectioneos.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\ipconnection.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\ipconnection.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\intermediate\\build\\win64\\unrealeditor\\inc\\socketsubsystemeos\\uht\\netconnectioneos.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\public\\netdrivereosbase.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\ipnetdriver.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\circularqueue.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\containers\\spscqueue.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemutils\\uht\\ipnetdriver.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\intermediate\\build\\win64\\unrealeditor\\inc\\socketsubsystemeos\\uht\\netdrivereosbase.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\public\\socketeos.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\sockets\\public\\sockets.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\source\\socketsubsystemeos\\public\\internetaddreos.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_common.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_base.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_result.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\eosshared\\source\\eosshared\\public\\eossharedtypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\thirdparty\\eossdk\\sdk\\include\\eos_p2p_types.h",
+            "c:\\users\\user\\documents\\unreal projects\\onslaught\\plugins\\online\\socketsubsystemeos\\intermediate\\build\\win64\\unrealeditor\\inc\\socketsubsystemeos\\uht\\netconnectioneos.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
