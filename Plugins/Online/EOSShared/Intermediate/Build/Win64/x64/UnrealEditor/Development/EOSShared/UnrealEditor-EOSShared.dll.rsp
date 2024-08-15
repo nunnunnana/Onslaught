@@ -37,11 +37,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\Slate\SharedPCH.Slate.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSSDKManager.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSShared.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSSharedModule.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSVirtualMemoryCallbacks.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\WindowsEOSSDKManager.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\Module.EOSShared.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\Default.rc2.res"
 "ThirdParty\EOSSDK\SDK\Lib\EOSSDK-Win64-Shipping.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"

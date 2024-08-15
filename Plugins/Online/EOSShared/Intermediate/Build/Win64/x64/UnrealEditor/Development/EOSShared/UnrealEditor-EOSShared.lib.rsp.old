@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EOSShared.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\Slate\SharedPCH.Slate.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSSDKManager.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSShared.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSSharedModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\EOSVirtualMemoryCallbacks.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\WindowsEOSSDKManager.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\EOSShared\Intermediate\Build\Win64\x64\UnrealEditor\Development\EOSShared\UnrealEditor-EOSShared.lib"

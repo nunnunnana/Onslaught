@@ -7,8 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\OnlineServicesCommonEngineUtils.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\OnlineServicesCommonEngineUtilsModule.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\SessionsLAN.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\Module.OnlineServicesCommonEngineUtils.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\Default.rc2.res"
 /OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineServices\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineServicesCommonEngineUtils\UnrealEditor-OnlineServicesCommonEngineUtils.lib"

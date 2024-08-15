@@ -1,5 +1,12 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.EOSShared.cpp.obj": [
+			"EOSSDKManager.cpp.obj",
+			"EOSShared.cpp.obj",
+			"EOSSharedModule.cpp.obj",
+			"EOSVirtualMemoryCallbacks.cpp.obj",
+			"WindowsEOSSDKManager.cpp.obj"
+		]
 	}
 }

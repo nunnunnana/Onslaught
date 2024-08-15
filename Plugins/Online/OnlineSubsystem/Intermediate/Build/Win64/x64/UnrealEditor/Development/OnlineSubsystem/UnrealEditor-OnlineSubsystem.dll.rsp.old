@@ -1,0 +1,107 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG:FULL
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/d2:-ExtendedWarningInfo
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/ALTERNATENAME:__imp___std_init_once_begin_initialize=__imp_InitOnceBeginInitialize
+/ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN:6
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\CoreUObject\SharedPCH.CoreUObject.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\NamedInterfaces.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineAsyncTaskManager.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineError.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineIdentityInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineKeyValuePair.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineMessage.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineNotification.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineNotificationHandler.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineNotificationTransportManager.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlinePartyInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlinePresenceInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSessionInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSessionSettings.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineStats.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSubsystem.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSubsystemImpl.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSubsystemModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSubsystemTypes.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineTracingInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\TurnBasedMatchInterface.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineAchievements.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineChat.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineEntitlements.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineFriends.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineIdentity.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineLeaderboard.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineMessage.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlinePresence.spec.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineTestCommon.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineStoreInterfaceV2.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineSubsystem.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\OnlineTurnBasedInterface.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\Default.rc2.res"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\JsonUtilities\UnrealEditor-JsonUtilities.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Json\UnrealEditor-Json.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreOnline\UnrealEditor-CoreOnline.lib"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineBase\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineBase\UnrealEditor-OnlineBase.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SignalProcessing\UnrealEditor-SignalProcessing.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"synchronization.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Binaries\Win64\UnrealEditor-OnlineSubsystem.dll"
+/IMPLIB:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\UnrealEditor-OnlineSubsystem.sup.lib"
+/PDB:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystem\Binaries\Win64\UnrealEditor-OnlineSubsystem.pdb"
+/ignore:4078

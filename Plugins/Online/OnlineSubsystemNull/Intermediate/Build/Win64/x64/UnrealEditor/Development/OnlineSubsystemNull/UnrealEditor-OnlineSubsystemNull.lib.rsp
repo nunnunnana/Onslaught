@@ -7,16 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineAchievementsInterfaceNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineAsyncTaskManagerNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineExternalUINull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineIdentityNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineLeaderboardInterfaceNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineMessageSanitizerNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlinePurchaseInterfaceNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineSessionInterfaceNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineStoreV2InterfaceNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineSubsystemModuleNull.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\OnlineSubsystemNull.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\Default.rc2.res"
 /OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemNull\UnrealEditor-OnlineSubsystemNull.lib"

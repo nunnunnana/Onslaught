@@ -36,10 +36,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\HotfixModule.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\OnlineHotfixManager.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\UpdateManager.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\Hotfix.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\Module.Hotfix.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Hotfix\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"

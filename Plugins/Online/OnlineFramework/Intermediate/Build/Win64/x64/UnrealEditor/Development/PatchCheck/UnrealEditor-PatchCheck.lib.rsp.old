@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PatchCheck.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\CoreUObject\SharedPCH.CoreUObject.Project.ValApi.Cpp20.h.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\PatchCheck\PatchCheck.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\PatchCheck\PatchCheckModule.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\PatchCheck\Default.rc2.res"
+/OUT:"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\PatchCheck\UnrealEditor-PatchCheck.lib"

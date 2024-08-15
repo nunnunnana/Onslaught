@@ -36,10 +36,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\Slate\SharedPCH.Slate.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\LoginFlowManager.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\LoginFlowModule.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\LoginFlowViewModel.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\SLoginFlow.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\Module.LoginFlow.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\LoginFlow\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\WebBrowser\UnrealEditor-WebBrowser.lib"

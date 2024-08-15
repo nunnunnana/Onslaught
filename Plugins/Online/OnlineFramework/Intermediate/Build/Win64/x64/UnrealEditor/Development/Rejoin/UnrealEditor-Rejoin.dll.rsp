@@ -36,9 +36,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Intermediate\Build\Win64\x64\OnslaughtEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rejoin\RejoinCheck.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rejoin\RejoinModule.cpp.obj"
-"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rejoin\Rejoin.init.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rejoin\Module.Rejoin.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\Onslaught\Plugins\Online\OnlineFramework\Intermediate\Build\Win64\x64\UnrealEditor\Development\Rejoin\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
